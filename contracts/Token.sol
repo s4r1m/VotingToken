@@ -79,3 +79,5 @@ contract VotingToken is ERC20 {
         return id[msg.sender];
     }
 
+
+}
